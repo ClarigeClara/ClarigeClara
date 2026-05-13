@@ -1,7 +1,7 @@
 # Heiiii i'm Clara ✨👋🏻
 i'm a german funny witch and hobby developer with imposter-symdrom xd
-I'm currently finishing my apprenticeship in Office Management (expected June 2027). c:
-I have some homelabs, to lern some skills for my hobby.
+<br>I'm currently finishing my apprenticeship in Office Management (expected June 2027). c:
+<br>I have some homelabs, to lern some skills for my hobby.
 
 ## 🪄 Magican skills
 - Linux Root-Rituals🐧
