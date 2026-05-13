@@ -1,5 +1,26 @@
-## Hi there 👋
+# Heiiii i'm Clara ✨👋🏻
+i'm a german funny witch and hobby developer with imposter-symdrom xd
+I'm currently finishing my apprenticeship in Office Management (expected June 2027). c:
+I have some homelabs, to lern some skills for my hobby.
 
+## 🪄magican Skills
+- Linux Root-Rituals🐧
+- Python Alchemy 🐍
+- MariaDB Necromancy 💾
+- Commercial Sorcery 🏬
+- Office Skill 👩🏻‍💻
+- PowerPoint-Memer 💀
+- Discord-Dev witch and "motivator"💜
+
+## My fav projekts
+- 💖 [Claralara](https://github.com/ClarigeClara/Claralara)
+- 🏠 Codestube (Soon)
+
+## 🤔 do u have a question?
+fell free and contact me on discord: @clarigeclara c:
+
+## ...
+You can change the world! Dont let anyone tell you something else. In fact it is only you that can change everything. ~Neelix
 <!--
 **ClarigeClara/ClarigeClara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
